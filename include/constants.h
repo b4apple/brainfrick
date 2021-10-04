@@ -1,0 +1,8 @@
+#pragma once
+#define BF_EXIT_ON_SUCCESS 0
+#define BF_EXIT_ON_MANUAL_ABORT 1
+#define BF_EXIT_ON_AUTO_ABORT 2
+#define BF_EXIT_ON_FILE_ERROR 3
+#define BF_EXIT_ON_RUNTIME_ERROR 4
+#define BF_EXIT_ON_LANG_ERROR 5 
+
