@@ -4,16 +4,16 @@ This is (yet another) Brainfrick Programming Language Compiler. Several limitati
 
 To-do list : 
 
-[-] Command-line flags (feature rich)
+- [ ] Command-line flags (feature rich)
 
-[-] AST Parsing
+- [ ] AST Parsing
 
-[-] Direct interpreting
+- [ ] Direct interpreting
 
-[-] C code-generation backend
+- [ ] C code-generation backend
 
-[-] Virtual Machine code-generation backend
+- [ ] Virtual Machine code-generation backend
 
-[-] WebAssembly code generation backend
+- [ ] WebAssembly code generation backend
 
-[-] Remove all previous backends and swap with LLVM 
+- [ ] Remove all previous backends and swap with LLVM 
